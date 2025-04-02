@@ -1,2 +1,2 @@
 # Portfólio
-Porttfólio feito com o Bootstrap.
+Portfólio feito com o Bootstrap.
